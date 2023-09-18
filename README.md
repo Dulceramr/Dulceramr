@@ -3,7 +3,7 @@ Sobre mí<br><br>👩🏻‍💻 Dulce Ramírez - Una bióloga que encontró su 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/dulce-ramirez-rendon) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulce-ramirez-rendon) 
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,firebase,git,github,jest,nodejs,py,react,vite,vscode)](https://skillicons.dev)
